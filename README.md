@@ -1,7 +1,7 @@
 ![logo](https://github.com/Khushi-2208/Khushi-2208/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
@@ -9,7 +9,7 @@
 
 - Currently Pursuing Btech in **Electronics and Communication Engineering At NIT Patna**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently exploring **Artificial Intelligence**
 
 - Reach me through **khushikumari062205@gmail.com**
 
